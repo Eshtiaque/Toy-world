@@ -19,7 +19,7 @@ const Home = () => {
              <Banner></Banner>
              <Album></Album>
              <Aos></Aos>
-          <Tabs></Tabs>
+             <Tabs></Tabs>
             <Section></Section>
             <SectionTwo></SectionTwo>
             <SectionTree></SectionTree>
